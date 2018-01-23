@@ -1,22 +1,22 @@
-####Create Tree using JSTree
+#### Create Tree using JSTree
 
 Application to read and display the data using a tree component. User will also be able to add or remove node. The file format for the data being accessed from is ’.csv’.
 
-###Getting Started
+### Getting Started
 
-##Prerequisites
+## Prerequisites
 
 You will need a web browser that runs a server in backend like Firefox.
 
-##Installing
+## Installing
 
 Copy the compressed folder anywhere on your disk. 
 Unzip the folder.
 Open the html file “TreeusingJSTree.html” in Firefox (or any similar web browser.).
 
-##About the Code 
+## About the Code 
 
-#Files and Description
+# Files and Description
 
 **Scripts**
 
@@ -47,6 +47,6 @@ The html file includes the style.min.css, bootstrap.min.css, jquery-3.2.1.min.js
 - When a create button is clicked it creates a new node and asks to enter the amount for that node. You can name the node after it is created. You can only create a new node when you select a parent node for that new node.
 - The Delete button can be used to delete the selected node from the tree. If the selected node is a parent node then it will delete its children along with the selected node.
 
-###Authors
+### Authors
 
-##Neha Pardeshi
+## Neha Pardeshi
