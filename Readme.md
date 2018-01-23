@@ -33,7 +33,7 @@ Creating Tree.
 - By accessing each node the code calculates the amount of the nodes. Please note the amount of the nodes is calculated using the given data.
 
 - For example:
-The root node is: Kropf with amount 48.67 but the sum of its children is 356.67, which is amount in the each node and not the sum of its children.
+The root node is: Kropf with amount 48.67,which is amount in the each node as per the input file, but the sum of its children is 356.67.
 
 
 
